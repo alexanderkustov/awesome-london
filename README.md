@@ -15,6 +15,7 @@ List of Awesome London places, organised by Category. Inspired by the awesome li
 - Hyde Park
 - Regent's Park
 - Richmond Park
+- Crystal Palace Park
 
 ## Tourist Attractions
 - Houses of Parliament
@@ -23,12 +24,21 @@ List of Awesome London places, organised by Category. Inspired by the awesome li
 - Tower of London
 - Tower Bridge
 - London Eye
+- Buckingham Palace
+- Alexandra Palace
 
-## Museums
+## Museums/Arts
 - Natural History Museum
 - The British Museum
 - The Science Museum
 - Victoria & Albert Museum
+- Saatchi Gallery
+- Wellcome Collection
+- God's Own Junkyard
+- British Library
+
+## Theatres
+- Royal Opera House
 
 ## Viewpoints
 
@@ -36,3 +46,50 @@ List of Awesome London places, organised by Category. Inspired by the awesome li
 - Primrose Hill
 - The Shard
 - Skygarden
+- Emirates Cable Car
+- ArcelorMittal
+- O2 Arena
+
+## Events
+
+- Notting Hill Carnival
+- Chinese New Year in Chinatown
+
+## Walks
+
+- Regents Canal
+- Lea Valley
+- Wandle trail
+
+## Sport/Fitness
+- Kings Cross Pond
+
+## Markets
+- Portobello Road Market
+- Camden Town Market
+- Columbia Road Flower Market
+
+## TBC
+
+- BBQ in London Fields
+- Draughts
+- Horniman Museum and Gardens
+- Mr Fogg's Tavern
+- B.Y.O.C.
+- Highgate Wood
+- London Wall
+- Wallace Collection
+- Guildhall Art Gallery
+- White Cube
+- Sherling High-Level Walkway
+- Phoenix Garden
+- Watts Victorian Memorial at Postman's Park
+- Barbican Conservatory
+- Wimbledon Common
+- CellarDoor
+- City Farm
+- Ronnie Scott's
+- Vinopolis
+- trial at the Old Bailey
+- Thames Barrier
+- Mayfield Lavender Farm
