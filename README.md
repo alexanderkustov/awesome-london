@@ -1,2 +1,2 @@
 # awesome-london
-Only the awesome places in an awesome city
+List of Awesome London places, organised by Category. Inspired by the awesome lists thing.
